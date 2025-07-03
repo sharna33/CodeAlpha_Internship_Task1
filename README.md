@@ -42,7 +42,7 @@ A machine learning project to classify Iris flower species using petal and sepal
 
 ## **📂 How to Run**
 - Clone the repository
-- Install required libraries (pip install -r requirements.txt)
+- Install required libraries (`pip install -r requirements.txt`)
 - Run the Jupyter Notebook or open the .ipynb file in Google Colab
 - Follow the step-by-step tutorial
 
